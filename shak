@@ -1,0 +1,2 @@
+def worker(queue_tasks, queue_results):
+    session, node_process = setup_session()
